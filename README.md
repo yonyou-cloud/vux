@@ -4,5 +4,5 @@
 
 ```bash
 npm i vue-cli -g
-vue init @yonyou-cloud/vux
+vue init yonyou-cloud/vux
 ```
